@@ -1,0 +1,4 @@
+Projet1Py/
+    __pycache__/
+    *.pyc
+    .DS_Store
